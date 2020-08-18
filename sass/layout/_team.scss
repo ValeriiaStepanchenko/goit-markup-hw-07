@@ -49,7 +49,7 @@ color: $p-text-color;
     
         &:hover,
         &:focus{
-            background-color: var($hover-color);
+            background-color: $hover-color;
             border-radius: 50%;
             
                 .social-link-svg{
