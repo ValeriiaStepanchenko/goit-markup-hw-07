@@ -994,7 +994,7 @@ section .container {
 }
 
 .social-link:hover, .social-link:focus {
-  background-color: var(#2196F3);
+  background-color:#2196F3;
   border-radius: 50%;
 }
 
