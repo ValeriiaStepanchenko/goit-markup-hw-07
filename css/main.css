@@ -1263,6 +1263,12 @@ footer {
   background-color: #2F303A;
 }
 
+.container {
+  display: flex;
+  padding-bottom: 60px;
+  padding-top: 72px;
+}
+
 .footer-address-div {
   margin-right: 69px;
 }
